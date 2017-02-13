@@ -1,0 +1,26 @@
+{
+  "name": "react_baby_steps",
+  "version": "1.0.0",
+  "description": "Following along various tutorials about React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjrenfro/React_Baby_Steps.git"
+  },
+  "keywords": [
+    "react-tutorial"
+  ],
+  "author": "mjrenfro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjrenfro/React_Baby_Steps/issues"
+  },
+  "homepage": "https://github.com/mjrenfro/React_Baby_Steps#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
