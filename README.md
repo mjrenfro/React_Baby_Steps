@@ -1,1 +1,1 @@
-# Following along various React.js Tutorials
+# Following along various React.js tutorials
